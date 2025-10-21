@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Maintenance Phase (Pirate)</title>
     <link>https://www.patreon.com/maintenancephase</link>
@@ -12,7 +12,7 @@
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       <description>As you may have heard on yesterday's episode, we're finally going to start offering bonus episodes! You've all been supporting us for nothing whatsoever and it's about time we started giving back. Thanks for being here. 
 
-We have no idea what form these will take in the future, but for the last few months we've been steadily building a list of Rantathons — topics that come up while we're recording and one of us has to say, "omg stop me, I could go on about this about this for hours." 
+We have no idea what form these will take in the future, but for the last few months we've been steadily building a list of Rantathons -- topics that come up while we're recording and one of us has to say, "omg stop me, I could go on about this about this for hours." 
 
 We are ranty people and this happens a lot; it's already quite a list. Today's bonus episode started out as an extended tangent in our Halo Top episode and became a perennial conversation topic whenever we had a few minutes to kill. Eventually we thought, hey we're gonna talk about this anyway, why not record it?  
 
@@ -23,21 +23,23 @@ So here it is: Aubrey's guided tour through the flora and fauna of the Bachelor/
       <title>Consciously Uncoupled: Harry, Meghan and Oprah (and Piers)</title>
       <enclosure url="" type="audio/mpeg"/>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <description><!<[CDATA[It's bonus episode time, team! 
+
+      <description><![CDATA[
+It's bonus episode time, team! 
 
 To go along with our recent Oprahsodes, today's bonus episode is all about Harry, Meghan, Oprah, and the British royal family.  And it's a double bonus because we're joined by your favorite and ours, Kimberly Springer!  Along the way, we talk about Oprah's role as an early parasocial fave, Piers Morgan's absolute horseshit and the class implications of cutting toast.
 
 As ever, you can play today's episode directly through Patreon, or you can use our RSS feed to add it to your podcast app.  Here are the instructions from Patreon.  
 
-If you've got particular topics you'd love to see us cover on these bonus episodes—conversations that don't quite fit the main feed's focus on wellness and weight loss—feel free to leave those in the comments.  We'd love to hear them!
+If you've got particular topics you'd love to see us cover on these bonus episodes--conversations that don't quite fit the main feed's focus on wellness and weight loss--feel free to leave those in the comments.  We'd love to hear them!
 
 We are overwhelmed and overjoyed that so many of you all are enjoying the show.  Thank you so much for all your support, maintainers. It means the world.
 
 See you in July!
 
 A&M
-]]></description>
-   ;</item>
+        ]]></description>
+    </item>
 
     <!-- Add more <item> blocks as needed -->
   </channel>
