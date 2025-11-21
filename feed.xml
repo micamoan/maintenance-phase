@@ -1,311 +1,327 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Maintenance Phase (Pirate)</title>
     <link>https://www.patreon.com/maintenancephase</link>
     <description>Personal RSS feed for Maintenance Phase bonus episodes.</description>
-    <itunes:image href="https://micamoan.github.io/maintenance-phase/cover.png" />
-    
+    <itunes:image href="https://micamoan.github.io/maintenance-phase/cover.png"/>
+    <item>
+      <title>October Bonus: Happy Birthday, Us!</title>
+      <enclosure url="https://n3.kemono.cr/data/5c/b4/5cb4dc20a44ddffe1872bf07af2605be43689c8aa459abb91300babca6605bf8.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Oct 2025 07:05:01 </pubDate>
+      <description/>
+    </item>
     <item>
       <title>September Bonus: Checking in on MAHA, Kratom and Jillian Michaels</title>
       <enclosure url="https://n1.kemono.cr/data/17/da/17da88c273e9225302d1c74671b59047aa687ee995d03f5cf02efb55182f4eff.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Sep 2025 06:17:51 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 30 Sep 2025 06:17:51 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>August Bonus: Gwyneth, The Biography</title>
       <enclosure url="https://n3.kemono.cr/data/c9/6b/c96bccb6a68756ed71dc2f506956951dab04db52869771cc251d4cb7805d2e0d.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Aug 2025 07:05:02 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 28 Aug 2025 07:05:02 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>July Bonus: Mike Huckabee's Diet Book</title>
       <enclosure url="https://n1.kemono.cr/data/b0/de/b0de2a14294ea685b544c4c3b42b2e35fc7cfcc706745101d963a8a8abeb84a3.mp3" type="audio/mpeg"/>
-      <pubDate>Mon, 28 Jul 2025 14:08:24 +0000</pubDate>
-      <description></description>
+      <pubDate>Mon, 28 Jul 2025 14:08:24 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>June Bonus: Mike Takes Aubrey to "Temptation Island"</title>
       <enclosure url="https://n4.kemono.cr/data/7c/64/7c644b4d6182e43062042776ae62c188fffac08bc7420e9cab38e332b98fbc30.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 26 Jun 2025 07:05:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 26 Jun 2025 07:05:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>May Bonus: Do You Really Need Eight Glasses of Water A Day?</title>
       <enclosure url="https://n2.kemono.cr/data/8b/90/8b90618902f05efa686474ea377d91b7e46a59577b1f0ea4b7665a2879eb821f.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 27 May 2025 07:05:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 27 May 2025 07:05:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>April Bonus: MAHA's First 90 Days</title>
       <enclosure url="https://n1.kemono.cr/data/13/16/131645ec217d72a85dbcb2b823ee82dd16559dae204522a1bd493736295f90f8.mp3" type="audio/mpeg"/>
-      <pubDate>Wed, 30 Apr 2025 04:05:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Wed, 30 Apr 2025 04:05:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>March Bonus: The Biohacking Bros</title>
       <enclosure url="https://n1.kemono.cr/data/c1/62/c1623fc88110a09a7604541512278c063284086738ac5ea410d4e4e923ae6ebf.mp3" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Mar 2025 07:01:04 +0000</pubDate>
-      <description></description>
+      <pubDate>Mon, 31 Mar 2025 07:01:04 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>February Bonus: Netflix's Blue Zones Docuseries</title>
       <enclosure url="https://n3.kemono.cr/data/7b/70/7b7037aefde6925862c8ed811f7e64aa99df5631be8f8131ac58747f1129894b.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 27 Feb 2025 08:05:00 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 27 Feb 2025 08:05:00 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>January Bonus: Taste-Testing LA's Weirdest Wellness Brands</title>
       <enclosure url="https://n4.kemono.cr/data/aa/cf/aacfb13ca946cc0b1b00c3c38b017a9a4f72bb3cffe496b07cab337d47f30f7c.mp3" type="audio/mpeg"/>
-      <pubDate>Wed, 22 Jan 2025 08:05:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Wed, 22 Jan 2025 08:05:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>December Bonus: THE 2024 GRIFTIES!</title>
       <enclosure url="https://n4.kemono.cr/data/46/86/46869beef2d10ced657faa6efc95d47796de21e5ac742b52169f42d6a1639683.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Dec 2024 08:05:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 31 Dec 2024 08:05:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>November Bonus: Richard Simmons, Celebrity Frenemies and the Podcasting Industrial Complex</title>
       <enclosure url="https://n4.kemono.cr/data/ab/db/abdba527679dcda4424276aeab2113e0c9cf42cbaa9cd6669ef050ef306225a4.mp3" type="audio/mpeg"/>
-      <pubDate>Wed, 27 Nov 2024 08:05:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Wed, 27 Nov 2024 08:05:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>October Bonus: Catching Up With RFK Jr.</title>
       <enclosure url="https://n3.kemono.cr/data/a6/6a/a66af066539442b10aa09a0d49a82f3f0b04b5598a20e139b01171be194915a7.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Oct 2024 07:05:02 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 29 Oct 2024 07:05:02 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>September Bonus: Mike &amp; Aubrey Take the Myers-Briggs</title>
       <enclosure url="https://n3.kemono.cr/data/62/ce/62ce9ceae89b689761cf921888cc16f4668c74c0dec10044ab1986db4db1cff9.mp3" type="audio/mpeg"/>
-      <pubDate>Mon, 30 Sep 2024 07:00:07 +0000</pubDate>
-      <description></description>
+      <pubDate>Mon, 30 Sep 2024 07:00:07 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>Diet Book Deep Dive: "Skinny Bitch"</title>
       <enclosure url="https://n4.kemono.cr/data/f6/c0/f6c07c295645efe6c9b9ea0110bd4168c8b5d0cafe3cd778aab9d03c02ba3ce0.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Aug 2024 07:05:00 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 29 Aug 2024 07:05:00 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>July Bonus: 36 Questions To Fall In Love</title>
       <enclosure url="https://n3.kemono.cr/data/7c/3a/7c3aad400a4d15de4dfa68e1436116bbca4e0225e2122d532984fc5d689cb0f0.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Jul 2024 13:24:26 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 30 Jul 2024 13:24:26 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>June Bonus: Breaking Down the Latest Anti-Trans Victory Lap</title>
       <enclosure url="https://n1.kemono.cr/data/39/30/39301c9c61e09e3b9649d81e1331e9e87be2ce49466fefc5df7481681b78ba65.mp3" type="audio/mpeg"/>
-      <pubDate>Mon, 01 Jul 2024 02:52:23 +0000</pubDate>
-      <description></description>
+      <pubDate>Mon, 01 Jul 2024 02:52:23 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>May Bonus: The Case Against Queer Marriage (And Trans Rights)</title>
       <enclosure url="https://n3.kemono.cr/data/5c/d8/5cd889e00d944fae115005c025df722b19546c0d149105efc270067cd77f4471.mp3" type="audio/mpeg"/>
-      <pubDate>Fri, 31 May 2024 07:05:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Fri, 31 May 2024 07:05:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>April Bonus: Oprah's Ozempic Special</title>
       <enclosure url="https://n4.kemono.cr/data/d6/5e/d65ec41dd21a22365aa18751eb7f02bc1b754a742fdaa882f937fd835b8902c1.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Apr 2024 07:05:00 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 30 Apr 2024 07:05:00 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>March Bonus: Plandemic!</title>
       <enclosure url="https://n3.kemono.cr/data/ef/c6/efc660fe651b5bbf4261923edcba8b79746a4f2d11e7b1771e4025ce3741de45.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 26 Mar 2024 07:05:00 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 26 Mar 2024 07:05:00 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>February Bonus: Diets for your Brain!</title>
       <enclosure url="https://n3.kemono.cr/data/1b/a5/1ba5186309bf15cf82c0e505600719f2d114e9e05a0c926184f6844e230778d8.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Feb 2024 08:05:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 29 Feb 2024 08:05:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>January Bonus: Erewhon Taste Test</title>
       <enclosure url="https://n4.kemono.cr/data/90/5e/905ec58809459f47ff220946b1091d822cdd85bfcdcc7d81b1b439d28b549f4a.mp3" type="audio/mpeg"/>
-      <pubDate>Wed, 31 Jan 2024 08:01:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Wed, 31 Jan 2024 08:01:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>December Bonus: THE 2023 GRIFTIES!</title>
       <enclosure url="https://n1.kemono.cr/data/ab/05/ab05be0d108c37ce11dbe1bddb4168e943dc4d63e6df4862520a4821ad77aaa3.mp3" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Dec 2023 08:01:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Fri, 29 Dec 2023 08:01:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>November Bonus: Big Victories!</title>
       <enclosure url="https://n2.kemono.cr/data/3e/45/3e458609a2aa9c64f45589493284c4929c90468c86957b9f8141bd4a1f5c20c5.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Nov 2023 08:05:00 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 30 Nov 2023 08:05:00 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>October Bonus: Semaglutide Discourse And The Making Of Our Ozempic Episode</title>
       <enclosure url="https://n2.kemono.cr/data/d9/ac/d9aca0402b03ccdb3f1790ee1bf0994c056eb6d1c0b703c49d84602c2f8ae709.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 31 Oct 2023 09:00:05 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 31 Oct 2023 09:00:05 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>September Bonus: Tucker Carlson's "The End of Men"</title>
       <enclosure url="https://n3.kemono.cr/data/50/b6/50b6ca4bbb013012d24362eb0d90e0adf764989fcfed1b2bedb5ce6a06ed7c0e.mp3" type="audio/mpeg"/>
-      <pubDate>Fri, 29 Sep 2023 09:00:04 +0000</pubDate>
-      <description></description>
+      <pubDate>Fri, 29 Sep 2023 09:00:04 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>August Bonus: Listener Questions!</title>
       <enclosure url="https://n1.kemono.cr/data/c0/47/c0479089cdde4ed82c5e67b5f234f8602a6613c4ae5661111cd4a9a6d7ed32d0.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 31 Aug 2023 09:01:00 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 31 Aug 2023 09:01:00 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>July Bonus: "The Virility Diet"</title>
       <enclosure url="https://n3.kemono.cr/data/93/7b/937b98c86bb813e0b86d2e7e4cab01c62f451dd22b97cb61984d70faaf6a1d1a.mp3" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Jul 2023 09:00:05 +0000</pubDate>
-      <description></description>
+      <pubDate>Mon, 31 Jul 2023 09:00:05 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>June Bonus: Aubrey's In A Movie!</title>
       <enclosure url="https://n3.kemono.cr/data/32/60/3260cd5b7df4a8cb7caf47afeb978812fdf7514a28442bb172802cbd2c793e00.mp3" type="audio/mpeg"/>
-      <pubDate>Fri, 30 Jun 2023 09:00:06 +0000</pubDate>
-      <description></description>
+      <pubDate>Fri, 30 Jun 2023 09:00:06 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>May Bonus: Mike &amp; Aubrey Go To The Doctor</title>
       <enclosure url="https://n3.kemono.cr/data/c8/fa/c8fa5ca359ccc9cfc8e3fc0e4f7afc5abb4758f9f5bb3b670a3eba5940d61560.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 30 May 2023 09:01:00 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 30 May 2023 09:01:00 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>April Bonus: "Sex, Love &amp; Goop"</title>
       <enclosure url="https://n4.kemono.cr/data/e6/68/e668de5994d3d50b3ff3bbfae8239bf58cfbaa15003c018d328d5fd09c9c46e3.mp3" type="audio/mpeg"/>
-      <pubDate>Fri, 28 Apr 2023 09:00:03 +0000</pubDate>
-      <description></description>
+      <pubDate>Fri, 28 Apr 2023 09:00:03 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>Bonus: Catching Up with Paleo Pete</title>
       <enclosure url="https://n4.kemono.cr/data/8d/0b/8d0b0244d1048f43d5bbae47b12515caf30a6bbdf67a3b60fbaca91acf79c24d.mp3" type="audio/mpeg"/>
-      <pubDate>Fri, 31 Mar 2023 09:01:00 +0000</pubDate>
-      <description></description>
+      <pubDate>Fri, 31 Mar 2023 09:01:00 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>February Bonus: Diet Book Buffet</title>
       <enclosure url="https://n3.kemono.cr/data/4d/d4/4dd441cde533f1673ea53b161a259f926e9eb014386e4546a06146a4de97175e.mp3" type="audio/mpeg"/>
-      <pubDate>Mon, 27 Feb 2023 10:00:03 +0000</pubDate>
-      <description></description>
+      <pubDate>Mon, 27 Feb 2023 10:00:03 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>January Bonus: Your Workplace Wellness Stories</title>
       <enclosure url="https://n1.kemono.cr/data/55/3c/553c3f891eb9d1ebaf1a52ccf0cf6446d992e9e0e90ae923a97ebfbd74e178e4.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 17 Jan 2023 10:00:03 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 17 Jan 2023 10:00:03 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>December Bonus: THE 2022 GRIFTIES!</title>
       <enclosure url="https://n1.kemono.cr/data/59/f4/59f4a3ee57cf6517f397b91a1f012a44fbe18a8158ec482389e178e7e2a1b7fb.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Dec 2022 10:00:12 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 29 Dec 2022 10:00:12 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>November Bonus: Podcast Payola, The 2022 Grifties and The Worst Thing We've Ever Tasted</title>
       <enclosure url="https://n4.kemono.cr/data/16/d4/16d473c28a2fb4f7479e5393bd74a7aceb10d04c7afa992d4b8bcf9a087ef509.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 29 Nov 2022 10:00:06 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 29 Nov 2022 10:00:06 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>Bonus Episode: Mailbag!</title>
       <enclosure url="https://n2.kemono.cr/data/df/5d/df5dae0eca58ff95999a32944e8d497c1831e48af6c83bce0ca26ceeb43e3126.mp3" type="audio/mpeg"/>
-      <pubDate>Mon, 31 Oct 2022 09:01:00 +0000</pubDate>
-      <description></description>
+      <pubDate>Mon, 31 Oct 2022 09:01:00 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>Bonus Episode: Media Roundup!</title>
       <enclosure url="https://n3.kemono.cr/data/05/bf/05bf64952e547cdc722941e99e5009b2dcb94c5e506d73b873397f63832605ed.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 29 Sep 2022 09:00:05 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 29 Sep 2022 09:00:05 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>Bonus Episode: Moon Juice Taste Test</title>
       <enclosure url="https://n4.kemono.cr/data/d4/3e/d43e1a315a920ba931ff0fe7bdca601848526408629e6346bc315570aa81bdfe.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 30 Aug 2022 09:00:04 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 30 Aug 2022 09:00:04 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>Bonus Episode: Jordan Peterson vs. Twitter</title>
       <enclosure url="https://n1.kemono.cr/data/0d/64/0d64025bf94bd5a58ee7bbddbc22ce3e49fe44ca3b7cbf392c0c8e7a411c8961.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Jul 2022 09:00:05 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 28 Jul 2022 09:00:05 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>Bonus Episode: Celebrity Food Diaries</title>
       <enclosure url="https://n1.kemono.cr/data/f1/65/f1651678727fcbf08c7fe1d3f75cae72e726ac5cf6232da12fe94a5452a3bb1e.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 30 Jun 2022 09:01:01 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 30 Jun 2022 09:01:01 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>MP Watch Party: Wall-E and Spy</title>
       <enclosure url="https://n2.kemono.cr/data/26/cc/26cc7c0efa77029e2d4c9d45331dadf8613353d2ff4caa605aca5de301520d42.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 31 May 2022 09:00:04 +0000</pubDate>
-      <description></description>
+      <pubDate>Tue, 31 May 2022 09:00:04 </pubDate>
+      <description/>
     </item>
-
     <item>
       <title>MP Watch Party: "The Goop Lab"</title>
       <enclosure url="https://n1.kemono.cr/data/fd/c7/fdc7539f9b2f7979cffe6dab4951eb8ebd6faae5801ed33dc8e6c271cf669134.mp3" type="audio/mpeg"/>
-      <pubDate>Thu, 28 Apr 2022 08:57:17 +0000</pubDate>
-      <description></description>
+      <pubDate>Thu, 28 Apr 2022 08:57:17 </pubDate>
+      <description/>
     </item>
-
     <item>
-      <title>Bonus Episode: Ask Us Anything</title>
-      <enclosure url="https://n1.kemono.cr/data/9a/9c/9a9c19146a75456309d6fa881de23433b01da81386ddb5554052c9095a36ce2d.mp3" type="audio/mpeg"/>
-      <pubDate>Tue, 12 Apr 2022 09:00:03 +0000</pubDate>
-      <description></description>
+      <title>Illness Influencers: A Very Belle Gibson Bonus Episode</title>
+      <enclosure url="https://n4.kemono.cr/data/2a/d2/2ad2543a1c9b449b376f2e9fcd7e03b3141a05f7647ec2d27b5ae0c038fb1677.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Feb 2022 10:00:03 </pubDate>
+      <description/>
     </item>
-
+    <item>
+      <title>Bonus Episode: Our Inbox is a Mess!</title>
+      <enclosure url="https://n1.kemono.cr/data/6b/52/6b52e86b55527053a3f0ad53e63052589179bb8d10985a48fb9bce8b97d66c75.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 27 Jan 2022 16:03:20 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>THE 2021 GRIFTIES!</title>
+      <enclosure url="https://n1.kemono.cr/data/73/56/73564eba279d3e0799d6396ac3ec73093203a4953fc4fedbcc95bccf7a688c2c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Dec 2021 10:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Nonprofits &amp; NGOs!</title>
+      <enclosure url="https://n2.kemono.cr/data/7a/13/7a13d6b3b624d6ca886636de8b7aafa8ac94b9e6ec1adbc3048cc599e089e654.mp3" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Nov 2021 10:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Way Down</title>
+      <enclosure url="https://n2.kemono.cr/data/23/d7/23d715cd4272db027a149ab0a4512a052d741511eae2cc56fc078fb0e5afcb06.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Oct 2021 05:51:35 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Fat Suit Extravaganza!</title>
+      <enclosure url="https://n4.kemono.cr/data/dc/06/dc06ca3891df5734d60379861d96c3e0e3a940ef55d85fc0f299505038375cb3.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Sep 2021 19:11:16 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>MP Movie Club: "Shallow Hal"</title>
+      <enclosure url="https://n3.kemono.cr/data/b9/1b/b91b86d594b1a38c5a270832752a48b285a096e389d68ccd512af8b507d8762d.mp3" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Aug 2021 08:00:04 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Fad Diets Spectacular!</title>
+      <enclosure url="https://n3.kemono.cr/data/4e/4d/4e4d021222bbc64ee31cd99f2aff54dc82149769722a2aa522d10c7f5375295b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jul 2021 09:01:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Consciously Uncoupled: Harry, Meghan and Oprah (and Piers)</title>
+      <enclosure url="https://n4.kemono.cr/data/a0/59/a05907281129f0f2912b55d7f589b1fdc27436b9eaa4957bd22439f0032fb102.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Jun 2021 08:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Right Reasons: Aubrey Tells Mike About "The Bachelor" </title>
+      <enclosure url="https://n1.kemono.cr/data/b9/ef/b9efaf3dc97ce576af0123f51bcd1eed652da9c134321b76e5bb9d643b6ceb82.mp3" type="audio/mpeg"/>
+      <pubDate>Wed, 26 May 2021 10:01:00 </pubDate>
+      <description/>
+    </item>
   </channel>
 </rss>
